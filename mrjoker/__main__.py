@@ -100,7 +100,7 @@ buttons = [
     ],
     
     [
-        InlineKeyboardButton(text="➕ 𝐀𝐃𝐃 X alpha 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.meXAlpha_robot?startgroup=true"),
+        InlineKeyboardButton(text="➕ 𝐀𝐃𝐃 X alpha 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.me/XAlpha_robot?startgroup=true"),
     ],
 ]
 
